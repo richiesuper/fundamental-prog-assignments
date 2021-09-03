@@ -26,6 +26,7 @@ int main(void) {
 
     if (diskriminan < 0) {
         printf("Maaf, hasil perhitungan diskriminan menunjukkan bahwa akar yang dihasilkan berupa bilangan imajiner, sedangkan program yang diminta hanya perlu mengeluarkan output berupa bilangan real.\n");
+        return 2;
     }
 
     double x1 = kuadratPlus(a, b, diskriminan);
