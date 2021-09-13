@@ -3,5 +3,5 @@ CFLAGS = -lm -Wall -Wextra -Werror -Wshadow -pedantic -O3
 SOURCE = akarKuadratTopDown.c
 BINARY = akarKuadratTopDown
 
-akarKuadratTopDown: $(SOURCE)
+$(BINARY): $(SOURCE)
 	$(CC) $(CFLAGS) -o $(BINARY) $(SOURCE)
