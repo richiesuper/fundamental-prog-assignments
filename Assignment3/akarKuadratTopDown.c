@@ -21,6 +21,7 @@
  * 3. Desain
  * a. Algorithma dasar:
  * 	- Dapatkan input pengguna untuk dimasukkan ke konstanta a, b, dan c
+ * 	- Jika konstanta a == 0, beri tau pengguna kalau a tidak boleh nol
  * 	- Cari diskriminan
  * 	- Jika diskriminan < 0, beri tau pengguna kalau inputnya menghasilkan bilangan kompleks
  * 	- Jika diskriminan >= 0, lanjutkan eksekusi program
@@ -28,7 +29,8 @@
  * 	- Tampilkan hasil perhitungan akar-akar kepada pengguna
  * b. Algorithma final:
  * 	- Diskriminan = (b * b) - (4 * a * c)
- * 	- if Diskriminan < 0, printf("Your input evaluates to complex number"); return 1;
+ * 	- if a == 0, printf("a cannot be zero"); return 1;
+ * 	- if Diskriminan < 0, printf("Your input evaluates to complex number"); return 2;
  * 	- x1 = (-b + sqrt(Diskriminan)) / (2 * a)
  * 	- x2 = (-b - sqrt(Diskriminan)) / (2 * a)
  * 	- print x1 dan x2 ke stdout / terminal
@@ -51,11 +53,16 @@ int main(void) {
 	printf("Selamat datang, pengguna.\nProgram ini berfungsi untuk memberikan nilai akar-akar dari persamaan kuadrat dengan rumus ABC.\nMasukkan konstanta a, b, c (misal: 1 2 1): ");
 	scanf("%f %f %f", &a, &b, &c);
 
+	if (!a) {
+		printf("Mohon maaf, jika konstanta a == 0, maka sudah bukan persamaan kuadrat lagi.\n");
+		return 1;
+	}
+
 	float diskriminan = b * b - (4 * a * c);
 
 	if (diskriminan < 0) {
 		printf("Mohon maaf, pengguna, input yang Anda berikan ternyata menghasilkan akar-akar bilangan kompleks. Coba masukkan nilai lain.\n");
-		return 1;
+		return 2;
 	} else {
 		float x1 = akarHasilPlus(a, b, diskriminan);
 		float x2 = akarHasilMinus(a, b, diskriminan);
