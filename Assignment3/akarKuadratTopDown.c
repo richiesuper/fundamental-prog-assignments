@@ -40,8 +40,8 @@
 #include <stdio.h>
 #include <tgmath.h>
 
-double akarHasilPlus(double a, double b, double diskriminan);
-double akarHasilMinus(double a, double b, double diskriminan);
+float akarHasilPlus(float a, float b, float diskriminan);
+float akarHasilMinus(float a, float b, float diskriminan);
 
 int main(void) {
 	float  a,
@@ -65,11 +65,11 @@ int main(void) {
 	}
 }
 
-double akarHasilPlus(double a, double b, double diskriminan) {
+float akarHasilPlus(float a, float b, float diskriminan) {
 	return (-b + sqrt(diskriminan)) / (2 * a);
 }
 
-double akarHasilMinus(double a, double b, double diskriminan) {
+float akarHasilMinus(float a, float b, float diskriminan) {
 	return (-b - sqrt(diskriminan)) / (2 * a);
 }
 
