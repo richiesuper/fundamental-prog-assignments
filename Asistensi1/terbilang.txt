@@ -1,0 +1,1000 @@
+Nol
+Satu
+Dua
+Tiga
+Empat
+Lima
+Enam
+Tujuh
+Delapan
+Sembilan
+Sepuluh
+Sebelas
+Dua belas
+Tiga belas
+Empat belas
+Lima belas
+Enam belas
+Tujuh belas
+Delapan belas
+Sembilan belas
+Dua puluh
+Dua puluh satu
+Dua puluh dua
+Dua puluh tiga
+Dua puluh empat
+Dua puluh lima
+Dua puluh enam
+Dua puluh tujuh
+Dua puluh delapan
+Dua puluh sembilan
+Tiga puluh
+Tiga puluh satu
+Tiga puluh dua
+Tiga puluh tiga
+Tiga puluh empat
+Tiga puluh lima
+Tiga puluh enam
+Tiga puluh tujuh
+Tiga puluh delapan
+Tiga puluh sembilan
+Empat puluh
+Empat puluh satu
+Empat puluh dua
+Empat puluh tiga
+Empat puluh empat
+Empat puluh lima
+Empat puluh enam
+Empat puluh tujuh
+Empat puluh delapan
+Empat puluh sembilan
+Lima puluh
+Lima puluh satu
+Lima puluh dua
+Lima puluh tiga
+Lima puluh empat
+Lima puluh lima
+Lima puluh enam
+Lima puluh tujuh
+Lima puluh delapan
+Lima puluh sembilan
+Enam puluh
+Enam puluh satu
+Enam puluh dua
+Enam puluh tiga
+Enam puluh empat
+Enam puluh lima
+Enam puluh enam
+Enam puluh tujuh
+Enam puluh delapan
+Enam puluh sembilan
+Tujuh puluh
+Tujuh puluh satu
+Tujuh puluh dua
+Tujuh puluh tiga
+Tujuh puluh empat
+Tujuh puluh lima
+Tujuh puluh enam
+Tujuh puluh tujuh
+Tujuh puluh delapan
+Tujuh puluh sembilan
+Delapan puluh
+Delapan puluh satu
+Delapan puluh dua
+Delapan puluh tiga
+Delapan puluh empat
+Delapan puluh lima
+Delapan puluh enam
+Delapan puluh tujuh
+Delapan puluh delapan
+Delapan puluh sembilan
+Sembilan puluh
+Sembilan puluh satu
+Sembilan puluh dua
+Sembilan puluh tiga
+Sembilan puluh empat
+Sembilan puluh lima
+Sembilan puluh enam
+Sembilan puluh tujuh
+Sembilan puluh delapan
+Sembilan puluh sembilan
+Seratus
+Seratus satu
+Seratus dua
+Seratus tiga
+Seratus empat
+Seratus lima
+Seratus enam
+Seratus tujuh
+Seratus delapan
+Seratus sembilan
+Seratus sepuluh
+Seratus sebelas
+Seratus dua belas
+Seratus tiga belas
+Seratus empat belas
+Seratus lima belas
+Seratus enam belas
+Seratus tujuh belas
+Seratus delapan belas
+Seratus sembilan belas
+Seratus dua puluh
+Seratus dua puluh satu
+Seratus dua puluh dua
+Seratus dua puluh tiga
+Seratus dua puluh empat
+Seratus dua puluh lima
+Seratus dua puluh enam
+Seratus dua puluh tujuh
+Seratus dua puluh delapan
+Seratus dua puluh sembilan
+Seratus tiga puluh
+Seratus tiga puluh satu
+Seratus tiga puluh dua
+Seratus tiga puluh tiga
+Seratus tiga puluh empat
+Seratus tiga puluh lima
+Seratus tiga puluh enam
+Seratus tiga puluh tujuh
+Seratus tiga puluh delapan
+Seratus tiga puluh sembilan
+Seratus empat puluh
+Seratus empat puluh satu
+Seratus empat puluh dua
+Seratus empat puluh tiga
+Seratus empat puluh empat
+Seratus empat puluh lima
+Seratus empat puluh enam
+Seratus empat puluh tujuh
+Seratus empat puluh delapan
+Seratus empat puluh sembilan
+Seratus lima puluh
+Seratus lima puluh satu
+Seratus lima puluh dua
+Seratus lima puluh tiga
+Seratus lima puluh empat
+Seratus lima puluh lima
+Seratus lima puluh enam
+Seratus lima puluh tujuh
+Seratus lima puluh delapan
+Seratus lima puluh sembilan
+Seratus enam puluh
+Seratus enam puluh satu
+Seratus enam puluh dua
+Seratus enam puluh tiga
+Seratus enam puluh empat
+Seratus enam puluh lima
+Seratus enam puluh enam
+Seratus enam puluh tujuh
+Seratus enam puluh delapan
+Seratus enam puluh sembilan
+Seratus tujuh puluh
+Seratus tujuh puluh satu
+Seratus tujuh puluh dua
+Seratus tujuh puluh tiga
+Seratus tujuh puluh empat
+Seratus tujuh puluh lima
+Seratus tujuh puluh enam
+Seratus tujuh puluh tujuh
+Seratus tujuh puluh delapan
+Seratus tujuh puluh sembilan
+Seratus delapan puluh
+Seratus delapan puluh satu
+Seratus delapan puluh dua
+Seratus delapan puluh tiga
+Seratus delapan puluh empat
+Seratus delapan puluh lima
+Seratus delapan puluh enam
+Seratus delapan puluh tujuh
+Seratus delapan puluh delapan
+Seratus delapan puluh sembilan
+Seratus sembilan puluh
+Seratus sembilan puluh satu
+Seratus sembilan puluh dua
+Seratus sembilan puluh tiga
+Seratus sembilan puluh empat
+Seratus sembilan puluh lima
+Seratus sembilan puluh enam
+Seratus sembilan puluh tujuh
+Seratus sembilan puluh delapan
+Seratus sembilan puluh sembilan
+Dua ratus
+Dua ratus satu
+Dua ratus dua
+Dua ratus tiga
+Dua ratus empat
+Dua ratus lima
+Dua ratus enam
+Dua ratus tujuh
+Dua ratus delapan
+Dua ratus sembilan
+Dua ratus sepuluh
+Dua ratus sebelas
+Dua ratus dua belas
+Dua ratus tiga belas
+Dua ratus empat belas
+Dua ratus lima belas
+Dua ratus enam belas
+Dua ratus tujuh belas
+Dua ratus delapan belas
+Dua ratus sembilan belas
+Dua ratus dua puluh
+Dua ratus dua puluh satu
+Dua ratus dua puluh dua
+Dua ratus dua puluh tiga
+Dua ratus dua puluh empat
+Dua ratus dua puluh lima
+Dua ratus dua puluh enam
+Dua ratus dua puluh tujuh
+Dua ratus dua puluh delapan
+Dua ratus dua puluh sembilan
+Dua ratus tiga puluh
+Dua ratus tiga puluh satu
+Dua ratus tiga puluh dua
+Dua ratus tiga puluh tiga
+Dua ratus tiga puluh empat
+Dua ratus tiga puluh lima
+Dua ratus tiga puluh enam
+Dua ratus tiga puluh tujuh
+Dua ratus tiga puluh delapan
+Dua ratus tiga puluh sembilan
+Dua ratus empat puluh
+Dua ratus empat puluh satu
+Dua ratus empat puluh dua
+Dua ratus empat puluh tiga
+Dua ratus empat puluh empat
+Dua ratus empat puluh lima
+Dua ratus empat puluh enam
+Dua ratus empat puluh tujuh
+Dua ratus empat puluh delapan
+Dua ratus empat puluh sembilan
+Dua ratus lima puluh
+Dua ratus lima puluh satu
+Dua ratus lima puluh dua
+Dua ratus lima puluh tiga
+Dua ratus lima puluh empat
+Dua ratus lima puluh lima
+Dua ratus lima puluh enam
+Dua ratus lima puluh tujuh
+Dua ratus lima puluh delapan
+Dua ratus lima puluh sembilan
+Dua ratus enam puluh
+Dua ratus enam puluh satu
+Dua ratus enam puluh dua
+Dua ratus enam puluh tiga
+Dua ratus enam puluh empat
+Dua ratus enam puluh lima
+Dua ratus enam puluh enam
+Dua ratus enam puluh tujuh
+Dua ratus enam puluh delapan
+Dua ratus enam puluh sembilan
+Dua ratus tujuh puluh
+Dua ratus tujuh puluh satu
+Dua ratus tujuh puluh dua
+Dua ratus tujuh puluh tiga
+Dua ratus tujuh puluh empat
+Dua ratus tujuh puluh lima
+Dua ratus tujuh puluh enam
+Dua ratus tujuh puluh tujuh
+Dua ratus tujuh puluh delapan
+Dua ratus tujuh puluh sembilan
+Dua ratus delapan puluh
+Dua ratus delapan puluh satu
+Dua ratus delapan puluh dua
+Dua ratus delapan puluh tiga
+Dua ratus delapan puluh empat
+Dua ratus delapan puluh lima
+Dua ratus delapan puluh enam
+Dua ratus delapan puluh tujuh
+Dua ratus delapan puluh delapan
+Dua ratus delapan puluh sembilan
+Dua ratus sembilan puluh
+Dua ratus sembilan puluh satu
+Dua ratus sembilan puluh dua
+Dua ratus sembilan puluh tiga
+Dua ratus sembilan puluh empat
+Dua ratus sembilan puluh lima
+Dua ratus sembilan puluh enam
+Dua ratus sembilan puluh tujuh
+Dua ratus sembilan puluh delapan
+Dua ratus sembilan puluh sembilan
+Tiga ratus
+Tiga ratus satu
+Tiga ratus dua
+Tiga ratus tiga
+Tiga ratus empat
+Tiga ratus lima
+Tiga ratus enam
+Tiga ratus tujuh
+Tiga ratus delapan
+Tiga ratus sembilan
+Tiga ratus sepuluh
+Tiga ratus sebelas
+Tiga ratus dua belas
+Tiga ratus tiga belas
+Tiga ratus empat belas
+Tiga ratus lima belas
+Tiga ratus enam belas
+Tiga ratus tujuh belas
+Tiga ratus delapan belas
+Tiga ratus sembilan belas
+Tiga ratus dua puluh
+Tiga ratus dua puluh satu
+Tiga ratus dua puluh dua
+Tiga ratus dua puluh tiga
+Tiga ratus dua puluh empat
+Tiga ratus dua puluh lima
+Tiga ratus dua puluh enam
+Tiga ratus dua puluh tujuh
+Tiga ratus dua puluh delapan
+Tiga ratus dua puluh sembilan
+Tiga ratus tiga puluh
+Tiga ratus tiga puluh satu
+Tiga ratus tiga puluh dua
+Tiga ratus tiga puluh tiga
+Tiga ratus tiga puluh empat
+Tiga ratus tiga puluh lima
+Tiga ratus tiga puluh enam
+Tiga ratus tiga puluh tujuh
+Tiga ratus tiga puluh delapan
+Tiga ratus tiga puluh sembilan
+Tiga ratus empat puluh
+Tiga ratus empat puluh satu
+Tiga ratus empat puluh dua
+Tiga ratus empat puluh tiga
+Tiga ratus empat puluh empat
+Tiga ratus empat puluh lima
+Tiga ratus empat puluh enam
+Tiga ratus empat puluh tujuh
+Tiga ratus empat puluh delapan
+Tiga ratus empat puluh sembilan
+Tiga ratus lima puluh
+Tiga ratus lima puluh satu
+Tiga ratus lima puluh dua
+Tiga ratus lima puluh tiga
+Tiga ratus lima puluh empat
+Tiga ratus lima puluh lima
+Tiga ratus lima puluh enam
+Tiga ratus lima puluh tujuh
+Tiga ratus lima puluh delapan
+Tiga ratus lima puluh sembilan
+Tiga ratus enam puluh
+Tiga ratus enam puluh satu
+Tiga ratus enam puluh dua
+Tiga ratus enam puluh tiga
+Tiga ratus enam puluh empat
+Tiga ratus enam puluh lima
+Tiga ratus enam puluh enam
+Tiga ratus enam puluh tujuh
+Tiga ratus enam puluh delapan
+Tiga ratus enam puluh sembilan
+Tiga ratus tujuh puluh
+Tiga ratus tujuh puluh satu
+Tiga ratus tujuh puluh dua
+Tiga ratus tujuh puluh tiga
+Tiga ratus tujuh puluh empat
+Tiga ratus tujuh puluh lima
+Tiga ratus tujuh puluh enam
+Tiga ratus tujuh puluh tujuh
+Tiga ratus tujuh puluh delapan
+Tiga ratus tujuh puluh sembilan
+Tiga ratus delapan puluh
+Tiga ratus delapan puluh satu
+Tiga ratus delapan puluh dua
+Tiga ratus delapan puluh tiga
+Tiga ratus delapan puluh empat
+Tiga ratus delapan puluh lima
+Tiga ratus delapan puluh enam
+Tiga ratus delapan puluh tujuh
+Tiga ratus delapan puluh delapan
+Tiga ratus delapan puluh sembilan
+Tiga ratus sembilan puluh
+Tiga ratus sembilan puluh satu
+Tiga ratus sembilan puluh dua
+Tiga ratus sembilan puluh tiga
+Tiga ratus sembilan puluh empat
+Tiga ratus sembilan puluh lima
+Tiga ratus sembilan puluh enam
+Tiga ratus sembilan puluh tujuh
+Tiga ratus sembilan puluh delapan
+Tiga ratus sembilan puluh sembilan
+Empat ratus
+Empat ratus satu
+Empat ratus dua
+Empat ratus tiga
+Empat ratus empat
+Empat ratus lima
+Empat ratus enam
+Empat ratus tujuh
+Empat ratus delapan
+Empat ratus sembilan
+Empat ratus sepuluh
+Empat ratus sebelas
+Empat ratus dua belas
+Empat ratus tiga belas
+Empat ratus empat belas
+Empat ratus lima belas
+Empat ratus enam belas
+Empat ratus tujuh belas
+Empat ratus delapan belas
+Empat ratus sembilan belas
+Empat ratus dua puluh
+Empat ratus dua puluh satu
+Empat ratus dua puluh dua
+Empat ratus dua puluh tiga
+Empat ratus dua puluh empat
+Empat ratus dua puluh lima
+Empat ratus dua puluh enam
+Empat ratus dua puluh tujuh
+Empat ratus dua puluh delapan
+Empat ratus dua puluh sembilan
+Empat ratus tiga puluh
+Empat ratus tiga puluh satu
+Empat ratus tiga puluh dua
+Empat ratus tiga puluh tiga
+Empat ratus tiga puluh empat
+Empat ratus tiga puluh lima
+Empat ratus tiga puluh enam
+Empat ratus tiga puluh tujuh
+Empat ratus tiga puluh delapan
+Empat ratus tiga puluh sembilan
+Empat ratus empat puluh
+Empat ratus empat puluh satu
+Empat ratus empat puluh dua
+Empat ratus empat puluh tiga
+Empat ratus empat puluh empat
+Empat ratus empat puluh lima
+Empat ratus empat puluh enam
+Empat ratus empat puluh tujuh
+Empat ratus empat puluh delapan
+Empat ratus empat puluh sembilan
+Empat ratus lima puluh
+Empat ratus lima puluh satu
+Empat ratus lima puluh dua
+Empat ratus lima puluh tiga
+Empat ratus lima puluh empat
+Empat ratus lima puluh lima
+Empat ratus lima puluh enam
+Empat ratus lima puluh tujuh
+Empat ratus lima puluh delapan
+Empat ratus lima puluh sembilan
+Empat ratus enam puluh
+Empat ratus enam puluh satu
+Empat ratus enam puluh dua
+Empat ratus enam puluh tiga
+Empat ratus enam puluh empat
+Empat ratus enam puluh lima
+Empat ratus enam puluh enam
+Empat ratus enam puluh tujuh
+Empat ratus enam puluh delapan
+Empat ratus enam puluh sembilan
+Empat ratus tujuh puluh
+Empat ratus tujuh puluh satu
+Empat ratus tujuh puluh dua
+Empat ratus tujuh puluh tiga
+Empat ratus tujuh puluh empat
+Empat ratus tujuh puluh lima
+Empat ratus tujuh puluh enam
+Empat ratus tujuh puluh tujuh
+Empat ratus tujuh puluh delapan
+Empat ratus tujuh puluh sembilan
+Empat ratus delapan puluh
+Empat ratus delapan puluh satu
+Empat ratus delapan puluh dua
+Empat ratus delapan puluh tiga
+Empat ratus delapan puluh empat
+Empat ratus delapan puluh lima
+Empat ratus delapan puluh enam
+Empat ratus delapan puluh tujuh
+Empat ratus delapan puluh delapan
+Empat ratus delapan puluh sembilan
+Empat ratus sembilan puluh
+Empat ratus sembilan puluh satu
+Empat ratus sembilan puluh dua
+Empat ratus sembilan puluh tiga
+Empat ratus sembilan puluh empat
+Empat ratus sembilan puluh lima
+Empat ratus sembilan puluh enam
+Empat ratus sembilan puluh tujuh
+Empat ratus sembilan puluh delapan
+Empat ratus sembilan puluh sembilan
+Lima ratus
+Lima ratus satu
+Lima ratus dua
+Lima ratus tiga
+Lima ratus empat
+Lima ratus lima
+Lima ratus enam
+Lima ratus tujuh
+Lima ratus delapan
+Lima ratus sembilan
+Lima ratus sepuluh
+Lima ratus sebelas
+Lima ratus dua belas
+Lima ratus tiga belas
+Lima ratus empat belas
+Lima ratus lima belas
+Lima ratus enam belas
+Lima ratus tujuh belas
+Lima ratus delapan belas
+Lima ratus sembilan belas
+Lima ratus dua puluh
+Lima ratus dua puluh satu
+Lima ratus dua puluh dua
+Lima ratus dua puluh tiga
+Lima ratus dua puluh empat
+Lima ratus dua puluh lima
+Lima ratus dua puluh enam
+Lima ratus dua puluh tujuh
+Lima ratus dua puluh delapan
+Lima ratus dua puluh sembilan
+Lima ratus tiga puluh
+Lima ratus tiga puluh satu
+Lima ratus tiga puluh dua
+Lima ratus tiga puluh tiga
+Lima ratus tiga puluh empat
+Lima ratus tiga puluh lima
+Lima ratus tiga puluh enam
+Lima ratus tiga puluh tujuh
+Lima ratus tiga puluh delapan
+Lima ratus tiga puluh sembilan
+Lima ratus empat puluh
+Lima ratus empat puluh satu
+Lima ratus empat puluh dua
+Lima ratus empat puluh tiga
+Lima ratus empat puluh empat
+Lima ratus empat puluh lima
+Lima ratus empat puluh enam
+Lima ratus empat puluh tujuh
+Lima ratus empat puluh delapan
+Lima ratus empat puluh sembilan
+Lima ratus lima puluh
+Lima ratus lima puluh satu
+Lima ratus lima puluh dua
+Lima ratus lima puluh tiga
+Lima ratus lima puluh empat
+Lima ratus lima puluh lima
+Lima ratus lima puluh enam
+Lima ratus lima puluh tujuh
+Lima ratus lima puluh delapan
+Lima ratus lima puluh sembilan
+Lima ratus enam puluh
+Lima ratus enam puluh satu
+Lima ratus enam puluh dua
+Lima ratus enam puluh tiga
+Lima ratus enam puluh empat
+Lima ratus enam puluh lima
+Lima ratus enam puluh enam
+Lima ratus enam puluh tujuh
+Lima ratus enam puluh delapan
+Lima ratus enam puluh sembilan
+Lima ratus tujuh puluh
+Lima ratus tujuh puluh satu
+Lima ratus tujuh puluh dua
+Lima ratus tujuh puluh tiga
+Lima ratus tujuh puluh empat
+Lima ratus tujuh puluh lima
+Lima ratus tujuh puluh enam
+Lima ratus tujuh puluh tujuh
+Lima ratus tujuh puluh delapan
+Lima ratus tujuh puluh sembilan
+Lima ratus delapan puluh
+Lima ratus delapan puluh satu
+Lima ratus delapan puluh dua
+Lima ratus delapan puluh tiga
+Lima ratus delapan puluh empat
+Lima ratus delapan puluh lima
+Lima ratus delapan puluh enam
+Lima ratus delapan puluh tujuh
+Lima ratus delapan puluh delapan
+Lima ratus delapan puluh sembilan
+Lima ratus sembilan puluh
+Lima ratus sembilan puluh satu
+Lima ratus sembilan puluh dua
+Lima ratus sembilan puluh tiga
+Lima ratus sembilan puluh empat
+Lima ratus sembilan puluh lima
+Lima ratus sembilan puluh enam
+Lima ratus sembilan puluh tujuh
+Lima ratus sembilan puluh delapan
+Lima ratus sembilan puluh sembilan
+Enam ratus
+Enam ratus satu
+Enam ratus dua
+Enam ratus tiga
+Enam ratus empat
+Enam ratus lima
+Enam ratus enam
+Enam ratus tujuh
+Enam ratus delapan
+Enam ratus sembilan
+Enam ratus sepuluh
+Enam ratus sebelas
+Enam ratus dua belas
+Enam ratus tiga belas
+Enam ratus empat belas
+Enam ratus lima belas
+Enam ratus enam belas
+Enam ratus tujuh belas
+Enam ratus delapan belas
+Enam ratus sembilan belas
+Enam ratus dua puluh
+Enam ratus dua puluh satu
+Enam ratus dua puluh dua
+Enam ratus dua puluh tiga
+Enam ratus dua puluh empat
+Enam ratus dua puluh lima
+Enam ratus dua puluh enam
+Enam ratus dua puluh tujuh
+Enam ratus dua puluh delapan
+Enam ratus dua puluh sembilan
+Enam ratus tiga puluh
+Enam ratus tiga puluh satu
+Enam ratus tiga puluh dua
+Enam ratus tiga puluh tiga
+Enam ratus tiga puluh empat
+Enam ratus tiga puluh lima
+Enam ratus tiga puluh enam
+Enam ratus tiga puluh tujuh
+Enam ratus tiga puluh delapan
+Enam ratus tiga puluh sembilan
+Enam ratus empat puluh
+Enam ratus empat puluh satu
+Enam ratus empat puluh dua
+Enam ratus empat puluh tiga
+Enam ratus empat puluh empat
+Enam ratus empat puluh lima
+Enam ratus empat puluh enam
+Enam ratus empat puluh tujuh
+Enam ratus empat puluh delapan
+Enam ratus empat puluh sembilan
+Enam ratus lima puluh
+Enam ratus lima puluh satu
+Enam ratus lima puluh dua
+Enam ratus lima puluh tiga
+Enam ratus lima puluh empat
+Enam ratus lima puluh lima
+Enam ratus lima puluh enam
+Enam ratus lima puluh tujuh
+Enam ratus lima puluh delapan
+Enam ratus lima puluh sembilan
+Enam ratus enam puluh
+Enam ratus enam puluh satu
+Enam ratus enam puluh dua
+Enam ratus enam puluh tiga
+Enam ratus enam puluh empat
+Enam ratus enam puluh lima
+Enam ratus enam puluh enam
+Enam ratus enam puluh tujuh
+Enam ratus enam puluh delapan
+Enam ratus enam puluh sembilan
+Enam ratus tujuh puluh
+Enam ratus tujuh puluh satu
+Enam ratus tujuh puluh dua
+Enam ratus tujuh puluh tiga
+Enam ratus tujuh puluh empat
+Enam ratus tujuh puluh lima
+Enam ratus tujuh puluh enam
+Enam ratus tujuh puluh tujuh
+Enam ratus tujuh puluh delapan
+Enam ratus tujuh puluh sembilan
+Enam ratus delapan puluh
+Enam ratus delapan puluh satu
+Enam ratus delapan puluh dua
+Enam ratus delapan puluh tiga
+Enam ratus delapan puluh empat
+Enam ratus delapan puluh lima
+Enam ratus delapan puluh enam
+Enam ratus delapan puluh tujuh
+Enam ratus delapan puluh delapan
+Enam ratus delapan puluh sembilan
+Enam ratus sembilan puluh
+Enam ratus sembilan puluh satu
+Enam ratus sembilan puluh dua
+Enam ratus sembilan puluh tiga
+Enam ratus sembilan puluh empat
+Enam ratus sembilan puluh lima
+Enam ratus sembilan puluh enam
+Enam ratus sembilan puluh tujuh
+Enam ratus sembilan puluh delapan
+Enam ratus sembilan puluh sembilan
+Tujuh ratus
+Tujuh ratus satu
+Tujuh ratus dua
+Tujuh ratus tiga
+Tujuh ratus empat
+Tujuh ratus lima
+Tujuh ratus enam
+Tujuh ratus tujuh
+Tujuh ratus delapan
+Tujuh ratus sembilan
+Tujuh ratus sepuluh
+Tujuh ratus sebelas
+Tujuh ratus dua belas
+Tujuh ratus tiga belas
+Tujuh ratus empat belas
+Tujuh ratus lima belas
+Tujuh ratus enam belas
+Tujuh ratus tujuh belas
+Tujuh ratus delapan belas
+Tujuh ratus sembilan belas
+Tujuh ratus dua puluh
+Tujuh ratus dua puluh satu
+Tujuh ratus dua puluh dua
+Tujuh ratus dua puluh tiga
+Tujuh ratus dua puluh empat
+Tujuh ratus dua puluh lima
+Tujuh ratus dua puluh enam
+Tujuh ratus dua puluh tujuh
+Tujuh ratus dua puluh delapan
+Tujuh ratus dua puluh sembilan
+Tujuh ratus tiga puluh
+Tujuh ratus tiga puluh satu
+Tujuh ratus tiga puluh dua
+Tujuh ratus tiga puluh tiga
+Tujuh ratus tiga puluh empat
+Tujuh ratus tiga puluh lima
+Tujuh ratus tiga puluh enam
+Tujuh ratus tiga puluh tujuh
+Tujuh ratus tiga puluh delapan
+Tujuh ratus tiga puluh sembilan
+Tujuh ratus empat puluh
+Tujuh ratus empat puluh satu
+Tujuh ratus empat puluh dua
+Tujuh ratus empat puluh tiga
+Tujuh ratus empat puluh empat
+Tujuh ratus empat puluh lima
+Tujuh ratus empat puluh enam
+Tujuh ratus empat puluh tujuh
+Tujuh ratus empat puluh delapan
+Tujuh ratus empat puluh sembilan
+Tujuh ratus lima puluh
+Tujuh ratus lima puluh satu
+Tujuh ratus lima puluh dua
+Tujuh ratus lima puluh tiga
+Tujuh ratus lima puluh empat
+Tujuh ratus lima puluh lima
+Tujuh ratus lima puluh enam
+Tujuh ratus lima puluh tujuh
+Tujuh ratus lima puluh delapan
+Tujuh ratus lima puluh sembilan
+Tujuh ratus enam puluh
+Tujuh ratus enam puluh satu
+Tujuh ratus enam puluh dua
+Tujuh ratus enam puluh tiga
+Tujuh ratus enam puluh empat
+Tujuh ratus enam puluh lima
+Tujuh ratus enam puluh enam
+Tujuh ratus enam puluh tujuh
+Tujuh ratus enam puluh delapan
+Tujuh ratus enam puluh sembilan
+Tujuh ratus tujuh puluh
+Tujuh ratus tujuh puluh satu
+Tujuh ratus tujuh puluh dua
+Tujuh ratus tujuh puluh tiga
+Tujuh ratus tujuh puluh empat
+Tujuh ratus tujuh puluh lima
+Tujuh ratus tujuh puluh enam
+Tujuh ratus tujuh puluh tujuh
+Tujuh ratus tujuh puluh delapan
+Tujuh ratus tujuh puluh sembilan
+Tujuh ratus delapan puluh
+Tujuh ratus delapan puluh satu
+Tujuh ratus delapan puluh dua
+Tujuh ratus delapan puluh tiga
+Tujuh ratus delapan puluh empat
+Tujuh ratus delapan puluh lima
+Tujuh ratus delapan puluh enam
+Tujuh ratus delapan puluh tujuh
+Tujuh ratus delapan puluh delapan
+Tujuh ratus delapan puluh sembilan
+Tujuh ratus sembilan puluh
+Tujuh ratus sembilan puluh satu
+Tujuh ratus sembilan puluh dua
+Tujuh ratus sembilan puluh tiga
+Tujuh ratus sembilan puluh empat
+Tujuh ratus sembilan puluh lima
+Tujuh ratus sembilan puluh enam
+Tujuh ratus sembilan puluh tujuh
+Tujuh ratus sembilan puluh delapan
+Tujuh ratus sembilan puluh sembilan
+Delapan ratus
+Delapan ratus satu
+Delapan ratus dua
+Delapan ratus tiga
+Delapan ratus empat
+Delapan ratus lima
+Delapan ratus enam
+Delapan ratus tujuh
+Delapan ratus delapan
+Delapan ratus sembilan
+Delapan ratus sepuluh
+Delapan ratus sebelas
+Delapan ratus dua belas
+Delapan ratus tiga belas
+Delapan ratus empat belas
+Delapan ratus lima belas
+Delapan ratus enam belas
+Delapan ratus tujuh belas
+Delapan ratus delapan belas
+Delapan ratus sembilan belas
+Delapan ratus dua puluh
+Delapan ratus dua puluh satu
+Delapan ratus dua puluh dua
+Delapan ratus dua puluh tiga
+Delapan ratus dua puluh empat
+Delapan ratus dua puluh lima
+Delapan ratus dua puluh enam
+Delapan ratus dua puluh tujuh
+Delapan ratus dua puluh delapan
+Delapan ratus dua puluh sembilan
+Delapan ratus tiga puluh
+Delapan ratus tiga puluh satu
+Delapan ratus tiga puluh dua
+Delapan ratus tiga puluh tiga
+Delapan ratus tiga puluh empat
+Delapan ratus tiga puluh lima
+Delapan ratus tiga puluh enam
+Delapan ratus tiga puluh tujuh
+Delapan ratus tiga puluh delapan
+Delapan ratus tiga puluh sembilan
+Delapan ratus empat puluh
+Delapan ratus empat puluh satu
+Delapan ratus empat puluh dua
+Delapan ratus empat puluh tiga
+Delapan ratus empat puluh empat
+Delapan ratus empat puluh lima
+Delapan ratus empat puluh enam
+Delapan ratus empat puluh tujuh
+Delapan ratus empat puluh delapan
+Delapan ratus empat puluh sembilan
+Delapan ratus lima puluh
+Delapan ratus lima puluh satu
+Delapan ratus lima puluh dua
+Delapan ratus lima puluh tiga
+Delapan ratus lima puluh empat
+Delapan ratus lima puluh lima
+Delapan ratus lima puluh enam
+Delapan ratus lima puluh tujuh
+Delapan ratus lima puluh delapan
+Delapan ratus lima puluh sembilan
+Delapan ratus enam puluh
+Delapan ratus enam puluh satu
+Delapan ratus enam puluh dua
+Delapan ratus enam puluh tiga
+Delapan ratus enam puluh empat
+Delapan ratus enam puluh lima
+Delapan ratus enam puluh enam
+Delapan ratus enam puluh tujuh
+Delapan ratus enam puluh delapan
+Delapan ratus enam puluh sembilan
+Delapan ratus tujuh puluh
+Delapan ratus tujuh puluh satu
+Delapan ratus tujuh puluh dua
+Delapan ratus tujuh puluh tiga
+Delapan ratus tujuh puluh empat
+Delapan ratus tujuh puluh lima
+Delapan ratus tujuh puluh enam
+Delapan ratus tujuh puluh tujuh
+Delapan ratus tujuh puluh delapan
+Delapan ratus tujuh puluh sembilan
+Delapan ratus delapan puluh
+Delapan ratus delapan puluh satu
+Delapan ratus delapan puluh dua
+Delapan ratus delapan puluh tiga
+Delapan ratus delapan puluh empat
+Delapan ratus delapan puluh lima
+Delapan ratus delapan puluh enam
+Delapan ratus delapan puluh tujuh
+Delapan ratus delapan puluh delapan
+Delapan ratus delapan puluh sembilan
+Delapan ratus sembilan puluh
+Delapan ratus sembilan puluh satu
+Delapan ratus sembilan puluh dua
+Delapan ratus sembilan puluh tiga
+Delapan ratus sembilan puluh empat
+Delapan ratus sembilan puluh lima
+Delapan ratus sembilan puluh enam
+Delapan ratus sembilan puluh tujuh
+Delapan ratus sembilan puluh delapan
+Delapan ratus sembilan puluh sembilan
+Sembilan ratus
+Sembilan ratus satu
+Sembilan ratus dua
+Sembilan ratus tiga
+Sembilan ratus empat
+Sembilan ratus lima
+Sembilan ratus enam
+Sembilan ratus tujuh
+Sembilan ratus delapan
+Sembilan ratus sembilan
+Sembilan ratus sepuluh
+Sembilan ratus sebelas
+Sembilan ratus dua belas
+Sembilan ratus tiga belas
+Sembilan ratus empat belas
+Sembilan ratus lima belas
+Sembilan ratus enam belas
+Sembilan ratus tujuh belas
+Sembilan ratus delapan belas
+Sembilan ratus sembilan belas
+Sembilan ratus dua puluh
+Sembilan ratus dua puluh satu
+Sembilan ratus dua puluh dua
+Sembilan ratus dua puluh tiga
+Sembilan ratus dua puluh empat
+Sembilan ratus dua puluh lima
+Sembilan ratus dua puluh enam
+Sembilan ratus dua puluh tujuh
+Sembilan ratus dua puluh delapan
+Sembilan ratus dua puluh sembilan
+Sembilan ratus tiga puluh
+Sembilan ratus tiga puluh satu
+Sembilan ratus tiga puluh dua
+Sembilan ratus tiga puluh tiga
+Sembilan ratus tiga puluh empat
+Sembilan ratus tiga puluh lima
+Sembilan ratus tiga puluh enam
+Sembilan ratus tiga puluh tujuh
+Sembilan ratus tiga puluh delapan
+Sembilan ratus tiga puluh sembilan
+Sembilan ratus empat puluh
+Sembilan ratus empat puluh satu
+Sembilan ratus empat puluh dua
+Sembilan ratus empat puluh tiga
+Sembilan ratus empat puluh empat
+Sembilan ratus empat puluh lima
+Sembilan ratus empat puluh enam
+Sembilan ratus empat puluh tujuh
+Sembilan ratus empat puluh delapan
+Sembilan ratus empat puluh sembilan
+Sembilan ratus lima puluh
+Sembilan ratus lima puluh satu
+Sembilan ratus lima puluh dua
+Sembilan ratus lima puluh tiga
+Sembilan ratus lima puluh empat
+Sembilan ratus lima puluh lima
+Sembilan ratus lima puluh enam
+Sembilan ratus lima puluh tujuh
+Sembilan ratus lima puluh delapan
+Sembilan ratus lima puluh sembilan
+Sembilan ratus enam puluh
+Sembilan ratus enam puluh satu
+Sembilan ratus enam puluh dua
+Sembilan ratus enam puluh tiga
+Sembilan ratus enam puluh empat
+Sembilan ratus enam puluh lima
+Sembilan ratus enam puluh enam
+Sembilan ratus enam puluh tujuh
+Sembilan ratus enam puluh delapan
+Sembilan ratus enam puluh sembilan
+Sembilan ratus tujuh puluh
+Sembilan ratus tujuh puluh satu
+Sembilan ratus tujuh puluh dua
+Sembilan ratus tujuh puluh tiga
+Sembilan ratus tujuh puluh empat
+Sembilan ratus tujuh puluh lima
+Sembilan ratus tujuh puluh enam
+Sembilan ratus tujuh puluh tujuh
+Sembilan ratus tujuh puluh delapan
+Sembilan ratus tujuh puluh sembilan
+Sembilan ratus delapan puluh
+Sembilan ratus delapan puluh satu
+Sembilan ratus delapan puluh dua
+Sembilan ratus delapan puluh tiga
+Sembilan ratus delapan puluh empat
+Sembilan ratus delapan puluh lima
+Sembilan ratus delapan puluh enam
+Sembilan ratus delapan puluh tujuh
+Sembilan ratus delapan puluh delapan
+Sembilan ratus delapan puluh sembilan
+Sembilan ratus sembilan puluh
+Sembilan ratus sembilan puluh satu
+Sembilan ratus sembilan puluh dua
+Sembilan ratus sembilan puluh tiga
+Sembilan ratus sembilan puluh empat
+Sembilan ratus sembilan puluh lima
+Sembilan ratus sembilan puluh enam
+Sembilan ratus sembilan puluh tujuh
+Sembilan ratus sembilan puluh delapan
+Sembilan ratus sembilan puluh sembilan
